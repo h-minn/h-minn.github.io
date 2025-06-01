@@ -5,6 +5,7 @@ description: How I transitioned from a Java developer in Japan to a cloud soluti
   architect passionate about DevSecOps and cybersecurity.
 tags:
 - Career
+date: 2025-06-01 06:29 +0000
 ---
 # Hello, I'm Min!
 

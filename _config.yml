@@ -91,7 +91,7 @@ pageviews:
 #     dark — Use the dark color scheme
 #
 # theme_mode: # [light | dark]
-theme_mode: dark
+theme_mode: light
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -103,6 +103,7 @@ cdn:
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/avatar.jpg
 show_avatar: true
+
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: /assets/img/avatar.jpg
@@ -156,7 +157,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/h-minn.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 

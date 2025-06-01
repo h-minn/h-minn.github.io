@@ -119,7 +119,7 @@ If you’re a tech parent, lifelong learner, or someone trying to do it all — 
 
 Let’s connect and grow together:
 📫 [LinkedIn](https://www.linkedin.com/in/htet-htet-min)  
-✉️ ari.htethtetmin@gmail.com
+✉️ [ari.htethtetmin@gmail.com](mailto:ari.htethtetmin@gmail.com)
 
 ---
 

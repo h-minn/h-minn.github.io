@@ -75,6 +75,6 @@ Feel free to connect — I’m always open to exciting opportunities, new ideas,
 
 I’m happy to hear from recruiters, collaborators, or anyone interested in tech, cloud, or cybersecurity.  
 
-**Email:** [ari.htethtetmin@gmail.com](ari.htethtetmin@gmail.com)  
+**Email:** [ari.htethtetmin@gmail.com](mailto:ari.htethtetmin@gmail.com)
 
 Let’s build something impactful, secure, and scalable together. 🚀

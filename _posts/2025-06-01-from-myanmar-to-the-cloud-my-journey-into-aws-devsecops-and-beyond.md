@@ -90,7 +90,7 @@ I aim to grow into a **cloud security architect**, combining my DevSecOps experi
 
 Thanks for reading about my journey! If you're on a similar path or just curious about AWS, DevSecOps, or cybersecurity, feel free to reach out. I’d love to share knowledge and grow together.
 
-🔗 **LinkedIn**: [HTET HTET MIN](https://www.linkedin.com/in/htet-htet-min)
+📫 [LinkedIn](https://www.linkedin.com/in/htet-htet-min)  
 ✉️ [ari.htethtetmin@gmail.com](mailto:ari.htethtetmin@gmail.com)
 
 Together, let’s build innovative, secure, and impactful technology. 🚀

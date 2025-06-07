@@ -44,7 +44,7 @@ I’m also captivated by the world of **Cybersecurity** and am seriously conside
 I believe in growing with intent. Here’s a glimpse into my credentials and aspirations:
 
 - ✅ **Certified ScrumMaster® I & II**
-- ✅ **AWS Certified Solutions Architect – Associate**
+- ✅ **AWS Certified Solutions Architect – Professional**
 - 🛠️ **Terraform Associate**
 - 🌟 **AWS Well-Architected Proficient**
 - 🔜 Preparing for **PMP** certification

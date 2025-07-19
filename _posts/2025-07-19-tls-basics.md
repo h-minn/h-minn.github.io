@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TLS Basics: Everything You Need to Know"
-description: "An in-depth technical guide to understanding TLS from the ground up"
+description: "A technical guide to understanding TLS from the ground up"
 date: 2025-07-19
 categories: [security, tls, encryption, web]
 ---
@@ -213,6 +213,3 @@ TLS is foundational to modern internet security. From initial handshake to encry
 - [TLS Basics by Internet Society](https://www.internetsociety.org/deploy360/tls/basics/)
 
 ---
-
-
-
